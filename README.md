@@ -1,1 +1,2 @@
 # Fundamentals-of-Programming
+Welcome to the Fundamentals of Programming Apps repository! This collection contains several applications developed during my university coursework. These projects reflect the key concepts of programming, including advanced techniques and the basic principles of Object-Oriented Programming (OOP). The apps demonstrate problem-solving skills and proficiency in various aspects of programming fundamentals.
